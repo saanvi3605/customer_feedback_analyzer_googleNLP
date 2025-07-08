@@ -1,0 +1,7 @@
+streamlit
+pandas
+python-docx
+plotly
+matplotlib        #  NEW
+ibm-watson
+ibm-cloud-sdk-core
